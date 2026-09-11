@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Fatia e Fogo">
+  <circle cx="32" cy="32" r="30" fill="#171412"/>
+  <path d="M32 10 52 47c-6.2 4.6-12.8 7-20 7s-13.8-2.4-20-7L32 10Z" fill="#c94332"/>
+  <path d="M17 42.5c9.8 5.2 20.2 5.2 30 0" fill="none" stroke="#f2b541" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="29" cy="29" r="2.6" fill="#f5f0e7"/>
+  <circle cx="38" cy="35" r="2.3" fill="#f5f0e7"/>
+  <path d="m32 10-7 31M32 10l7 31" fill="none" stroke="#171412" stroke-width="1.4" opacity=".5"/>
+</svg>
